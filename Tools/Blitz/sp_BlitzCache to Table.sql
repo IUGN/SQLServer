@@ -1,0 +1,1 @@
+exec sp_BlitzCache @OutputDatabaseName='ADM', @OutputSchemaName='dbo', @OutputTableName='sp_CacheResults'
